@@ -1,3 +1,4 @@
+# implementation with sklearn
 from sklearn import *
 #using the fit function from sklearn 
 from sklearn.datasets import load_wine
